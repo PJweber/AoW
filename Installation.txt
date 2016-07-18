@@ -1,0 +1,116 @@
+﻿---Art Of War v1.x Overview & Installation---
+
+"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win"
+ - Sun Tzu, The Art of War
+
+The mod changes almost all of the parameters, strategic and tactical, in the game in order to have the most engaging and fun game possible. 
+It's a complete overhaul of the Soldier/MEC perk/stat progressions, Soldier/MEC/SHIV weapons/armor/equipment, and the descriptions of everything in the tactical game.
+It's a complete overhaul of enemy development with a focus on variance, tactical adaption, and depth of capabilities.
+It's a complete overhaul of the strategic game with a focus on different game modes instead of different difficulties and making every option meaningful and interesting.
+
+A more complete manual is in the works... please bear with me for now.
+
+WARNING - Hidden Potential is not yet calibrated for this mod, avoid using this SW option for now.
+IMPORTANT - Dynamic War is basically required for this mod. Without it your experience will be... weird, though playable.
+
+---Installation---
+
+*************
+INSTRUCTIONS:
+
+1. Install Long War 1.x (supports LW 1.0)
+2. In D:\Steam\steamapps\common\XCom-Enemy-Unknown\XEW\XComGame\Config (or wherever you installed it) make a backup of your DefaultGameCore.ini and DefaultGameData.ini files. 
+3. Copy and Paste Art of War's DefaultGameCore.ini and DefaultGameData.ini files into your XCom-Enemy-Unknown\XEW\XComGame\Config folder, replacing the files there. You've updated Equipment, Perks, and Progressions!
+4. In D:\Steam\steamapps\common\XCom-Enemy-Unknown\XEW\XComGame\Localization\INT (English only, sorry guys) make a backup of your XComStrategyGame.int and XComGame.int files.
+5. Copy and Paste Copy and Paste Art of War's XComStrategyGame.int and XComGame.int files into your XCom-Enemy-Unknown\XEW\XComGame\Localization\INT folder, replacing the files there. You've renamed classes and updated descriptions!
+6. Play the game! Note that a lot of perks have been renamed and a whole lot of stuff is different. Consider checking out my google doc...
+*************
+
+
+---List of Perk Trees and Specialty Descriptions---
+
+Google Doc list of specialties, descriptions, and theory crafting worksheet:
+https://docs.google.com/spreadsheet/ccc?key=0AgzXZjFcaOLudC00UUExWlVIM2pMa0lmZk5VT0JIY3c&usp=sharing
+
+Note on what to expect:
+
+In the Art of War modpack 1.x you will experience the following adjustments from the base Long War experience:
+
+Equipment Overhaul.
+﻿Perhaps the largest shift from Long War is the addition of perks to almost every weapon and piece of equipment in the XCOM arsenal. This shifts the balance of power away from high level soldiers and onto smart pre-mission loadout selections... allowing astute commanders to shape their squad for the mission at hand far more effectively.
+
+++ One man, many hats: No longer are soldiers pigeon holed by their perk selections, slaves to one equipment loadout... rifleman or shotgunner or marksman... change the loadout of a soldier now and they can handle vastly different roles while maintaining their intrinsic strengths. Some clever equipment choices may even allow soldiers to skip training in a "must have" perk to further specialize their combat mastery.
+
+++ MEC the most of it: MECs are far more restricted in their training choices but have incredible variety in the perks offered by equipment. These heavy soldiers can play differently every mission as long as you provide them with the high tech goodies they deserve.
+
+++ Tech Mixer: With varied perks and stats across tech levels you may find that just because the damage is superior doesn't mean you won't be pulling out the older model weapons when the moment is right. Maybe you want the built in suppression of the Heavy Laser Rifle or the innate Holo-Targeting of the Beam Tech's Halo Array? How you plan to win is up to you, but you might find that just because something is an older generation of tech doesn't mean it's obsolete.
+
+++ Spread the Love: Some equipment may allow for a more reliable spread of certain skills. Notably the Analysis Module (formerly the Targeting Module) now grants Repair in addition to it's critical % and damage boost (and weight). Many shotgun type weapons grant Run & Gun. Most carbines specialize in Overwatch... choose wisely.
+
+Soldier Overhaul.
+﻿Soldiers now gain basic tactical skills and health earlier in their ranks and mental fortitude and polish later. Young soldiers are far more effective in their first few ranks, but the elite troops of the enemy will still require the iron will of hardened veterans to combat effectively.
+
+++ Two new Soldier classes: The stalwart Command and the genetically engineered Sleeper replace the Medic and Engineer classes who's specialties have been redistributed across other classes. While the Command specializes in keeping other soldiers safe, informed, and make excellent officer candidates the hardy and adaptable Sleeper class focuses on raw combat statistics and powerful passive abilities. 
+
+++ Tactical Focus: Perk trees have been redesigned to each include 3 specialties, one per perk tree column. These synergistic skillsets bring the most engaging and strategic actions the game engine offers in the first few soldier ranks and then refines and polishes your soldiers as they mature into deadly veterans.
+
+MEC Overhaul.
+﻿MECs are no longer standalone juggernauts. With a total redesign of the MEC system these soldiers and suits carry heavy, long range weapons and powerful support items into battle but require a balance of loadout and infantry support to function effectively.
+
+++ The Strider: The first MECs to hit the field are little more than alloy shells with jump jets. Low health, high DR... these beasts are a first step you might find yourself returning to under the right circumstances, though pilots are in for a rough ride.
+
+++ Matter versus Mind: There are two distinct trains of thought that command the MEC design process. One line of suits focuses on durability and weapon hard points while the other line of suits focuses on independent deployment and utility.
+
+++ In All Things, Balance: MECs are graced with massive mobility, Will boosts, and powerful AI sub-systems... however the more equipment you attach the greater the strain on their processing power and weight thresholds. Expect underclocked MECs to require constant babysitting by Officers and overloaded MECs to waddle around sluggishly. A careful mixture of suit type, weapons, subsystems, and squadmates allows you to create incredibly lethal man/machine hybrids to combat the alien threat.
+
+Enemy Overhaul.
+﻿No enemy is the same... expect incredible diversity among your foes with carefully crafted enemy perk tables.
+
+++ Racial Diversity: Every enemy type has access to a number of universally available perks that can have minor to moderate effects on your tactical plans. Every enemy has a customized % chance to acquire any of these perks and the chance deviates among the races.
+
+++ Tactical Roles: Besides the global diversity perks each enemy type has a tactical role defined by a % chance at a significant selection of synergistic perks. None of these perks are guaranteed, so not every Outsider may regenerate or have Close Combat Specialist, but the most basic are very likely and while the more esoteric or deadly are relatively unlikely. 
+
+++ The Perfect Being: While it's not likely eventually you may find a foe or a combination of foes with perks or a combination of perks that you can't possibly defeat. There is no shame in retreat, only in giving up the fight. "If [your foe] is in superior strength, evade him." And win a different fight.
+
+Strategic Overhaul.
+﻿Not every battle must be won. With an emphasis on having at least one satellite per continent, too few resources to fight every fight, and reduced penalties for ignoring or skipping a mission every choice in the strategic game is made viable.
+
+++ The Swarm: Prepare yourself for twice as many missions per month (THIS IS WHY DYNAMIC WAR IS REQUIRED). To go on more missions you will need to invest heavily in your barracks and make the hard choice about which missions to go on and which to pass, when to exhaust your tired troops and when a forced march will cost you too dearly.
+
+++ Know When To Fold 'Em: Some missions are going to be cakewalks, some nightmarish ambushes. Choose carefully where you commit your troops and when to withdraw. Resources are plentiful so letting a mission slide or getting out with your squad intact should always be in your mind.
+
+++ Crumbling Hope: XCOM begins with a massive amount of the world's support... but can you maintain that support or will it crumble with the hopes of mankind as the enemy unveils their true power? Use the support of the world wisely as panicking nations, increasing enemy strength, and your own infrastructure will begin to weigh heavily upon you as the game goes on.
+
+Game Types.
+﻿There are now four game types instead of four difficulties, each focused on a different balance of tactical and strategic skills.
+
+++ Strategy: Bring your strategic A-game. With a toned down tactical game and the most difficult strategic settings you can focus on what you enjoy must, raw unadulterated strategy.
+
+++ Tactics: Muster your bravest soldiers and face the ultimate foes. With a toned down strategic game you can worry less about satellites and resource acquisition and fight wave after wave of the most brutal enemies mankind has ever faced.
+
+++ Hope: A mix of the tactical and strategic challenge of the other game types without any bonuses or penalties, toning or buffing. This is the standard game balance, challenging but possible. Experienced Long War players may find themselves at home or, if Impossible addicts, wanting something a little more... hopeless.
+
+++ Despair: An unforgiving mix of all of the above. The brutal enemies of Tactics, the crumbling support of Strategy, and very little Hope. Everything you've learned leads up to the true challenge of the Art Of War. 
+
+What's not done yet:
+
+- Randomized soldier stats via second wave options are not properly configured for my mod.
+- Advanced enemy overhauls... Berserkers, Cyberdiscs, Mechtoids, Sectoid Commanders, Heavy Floaters, Muton Elites, Sectopods, Ethereals
+- Spit and Polish. With relatively little playtesting for the strategic changes and late game difficulty I'll need player feedback to balance things properly.
+
+FYI's about game mechanics.
+
+--- Soldier Stat Progression Discussion---
+Stat progressions changes affect Health, Aim, Willpower gained from every rank.
+
+On Soldiers...
+All soldiers receive a class related perk bonus when selecting their first perk. Sleepers have a superior initial bonus.
+Health - Generally gained earlier rather than later than in vanilla LW. Rookies have 1 more health than normal and you may see a little extra health on Gunners and the new Sleeper class gains a health every level.
+Aim - Aim gains start high and fall off over time, meaning that the last three or so levels provide about 1/3rd of the total Aim your soldier will gain over time. Sleepers notably have mediocre Aim progression but excellent perk-choice related stat bonuses.
+Will - Will gains start slow, with the highest gains around your 4th, 5th, and 6th ranks. Keep officers around to help shore up lower level soldiers or they'll route often.  Sleepers notably have mediocre Will progression but excellent perk-choice related stat bonuses.
+
+On MECs...
+All MEC troopers gain 1 health, 2 Aim, and 2 Will per rank no matter their starting class. Additional stats are gained through perk choices, Sleeper MECs notably having superior stat gains.
+MEC equipment now heavily impacts Mobility and Willpower with MEC design-trees specializing in Armor/Auxiliary Weapons vs Will/Utility Slots. 
+Plan carefully or you may wind up with an immobile tank or a panicky, under-clocked automaton.
+MECs will require all of the non-MEC support abilities you can muster to function at full effectiveness: Smoke, Mind Merge, Officer Nearby, Holo Targeting, Suppression, and Cover Destruction.

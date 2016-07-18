@@ -1,0 +1,233 @@
+AoW Future:
+- Update armor research details.
+- Update equipment research details.
+- Update pulse descriptions.
+- Update plasma descriptions.
+- Update Mechtoid.
+- Update Sectoid Commander.
+- Update Muton Elite.
+- Update Sectopod.
+- Update Ethereal.
+- Examine alien Will vs Psi utility in various difficulties.
+- Ensure SHIVs aren't too gated by tech timing.
+- Consider dmg vs crit focused precision rifles (specific tech?)
+- Test and Plug these mods: http://www.nexusmods.com/xcom/mods/642/? , http://www.nexusmods.com/xcom/mods/581/?
+- Psionics:
+++ Balance Psi bonus Will against increased psi access.
+
+Wishlist:
+- Adjust alien force compositions.
+-- More and better mixed pods.
+- Adjust PSI XP gains.
+
+Suggested Mods:
+Standalone Installation Mods - Follow instructions.
+Long War by Long War Studios
+Art Of War for Long War by Phwop
+Graphics Mod - X-COM Enemy Unknown UPDATED 1-2b by philstatUK 
+Graphics boost with latest SweetFX 151 EU-EW by CeeJay_dk 
+TexMod AutoLoad - Required for Military Retexture mod
+Military Retexture Pack by kolt16
+UPKUtils by wghost81 - Required for mods below...
+Enhanced Tactical Info (for Long War) by eclipse666 aka SpazmoJones
+Line-of-Sight Indicators by tracktwo
+Better Blueshirts by Dethraker
+Virtual Reality Training (for Long War) by SpazmoJones
+DR Chipping (for Long War) by JCLewis
+
+v1.61 Changes:
+
+Fixes/Misc
+- 
+
+Balance Adjustments:
+-
+
+v1.60 Changes:
+
+Fixes/Misc
+- Renamed Run 'N Gun: "Charge"
+- Renamed Killer Instinct: "Overcharge"
+- Moved aim off of alien weapons and onto base stats.
+- Small adjustments to alien weapon stats to emphasize alien roles.
+- Reduced "Target Enrichment" SW option from +40% enemies to +25% enemies.
+- Drone: Health reduced initially; Slayer perk progression reduced.
+- Increased base soldier aim by +3.
+- Update item descriptions. Medikit, Barrier Focus, Aurora Armor, Auspex Armor.
+- Bonus Psi XP granted by some equipment: Barrier Focus, Aurora Armor, Auspex Armor. (+10 per item, reduced by Dynamic War ~7.5)
+
+Balance Adjustments:
+- Nemesis Berserkers! Brutal hulking melee monstrosities with highly varied capabilities (Fluff concept is to give each unit some personality, Predator-style).
+- Nemesis Cyberdiscs! Dangerous, mass-produced close air support drones... solid all-round performance when airborne.
+
+v1.52 Changes:
+
+Fixes/Misc
+! Optic Cammo description should state usable by all.
+! Super Skyranger description should be clearer.
+
+Balance Adjustments:
+- Removed Fragment costs from non-combat related techs/Foundry projects.
+- Rocket Scatter reduced.
+
+v1.51 Changes:
+
+Fixes/Misc
+- Changed 'Quick & Dead' SW option to 'Target Enrichment'
+
+Balance Adjustments:
+- Reduced spread shotgun (Ballistic, Gauss, Plasma) aim bonus from 20 to 16.
+- Increased Cannon aim by 8.
+- Increasing base reaction fire chance from 50% to 60%.
+- Reducing Dynamic War to 1.5... lots of things will take longer, be cheaper, etc... need to know if anything is really weird.
+- Fragment income increased by 10%.
+- Reduced tech fragment costs significantly, especially the more expensive tech/foundry.
+- Removed Slayer and Guardian from Seekers to prevent them from alpha striking quite so brutally. Close Encounters moved back in seeker progression and chances reduced. Base dmg nudged up to maintain threat potential.
+- Increased Drone/Seeker accuracy.
+
+v1.5 Changes:
+
+Fixes/Misc
+- Updated gauss weapon descriptions and various minor ballistic/beam weapon descriptions.
+- Updated numerous misc descriptions.
+- Zombie size increased (20% across the board) in an attempt to increase the real-time speed of zombie turns.
+- Lock N Load removed from Exalt Operatives.
+- Updated SW options to indicate universally suggested options as +<Name>+.
+- Updated Quick and Dirty to Quick & Dead.
+- Pulse/Plasma aim/crit values were incorrect, fixed. Descriptions are still out of date.
+- Size progression scaled back for all enemies.
+
+Balance Adjustments:
+- Changed suppression-based reaction fire to ignore cover. Previously ignored 50% of cover's bonus, now 100%.
+- Green Fog causes 1 aim/will loss a turn up to a cap of -12 aim/-60 will.
+- Legio Patria Nostra Will bonus increased from 1 per nationality to 2.
+- Reduce Pistol reaction fire range to ensure greater accuracy on Overwatch.
+- Gauss Autopistol is now the holy grail of pistol overwatch for masters and the bane of amateur pistol users. It can overwatch at full sight range but only those with Avenger (previously Ranger) should try it.
+- Reduced ballistic +dmg item to weight 0.
+- Sentinel perk now the standard perk for Assault Rifles, Overwatch perks on weapons a bit better.
+- Pulse tech bonus improved to +6 aim, +8 crit, and -6 rng (wah wah). More interesting perks given to some Pulse weapons (Close Encounters, Disabling Shot)
+- Configured Quick and Dirty to increase alien numbers, instead of decrease. 'Quick & Dead'. Intended for standard experience, leave off for easier gameplay.
+- Reconfigure Elite enemy format. Weaker elites, intended for use with Quick & Dead SW option (aka more expected enemies).
+++ Hulking/Badass/Paragon removed: Drones
+++ Hulking/Badass/Paragon reduced: Seekers, Zombie, Sectoid, Floaters, Thinmen, Muton, Chryssalids, Outsider
+++ EXATL Blood Works bonuses reduced (all units).
+- Reduce Counterfire prevalence on enemies.
+++ Floater and Thinman Counterstrike reduced in frequency, but increases aim/health.
+- Enemy aim updated to be more variable.
+
+v1.4 Changes:
+- Air War Adjustments
+++ XCOM Weapon Dynamic: Rapid Fire vs "Bomb"; Bombs soften up targets, the bigger the target the more bombing runs required. Rapid Fire weapons finish off the target and are especially effective against smaller UFOs.
+++ Firestorm revamped as Cruiser-type aircraft; slower than interceptor but much tougher, use for sustained bombing runs against medium to large targets.
+++ Laser Cannon now "bomb" tech.
+++ Plasma Cannon now efficient hybrid tech.
+++ XCOM air weaponry descriptions updated.
+
+v1.3 Changes:
+- Update ballistic descriptions.
+- Update beam tech preview and report descriptions. Beam Weap, Adv Beam Weapon, Enhanced Beam Weap.
+- Changed Rocket Launcher name. Light Anti-Infantry Rocket 'Quaker' aka LAIR 'Quaker'.
+- Updated to Long War v1.0 compatibility.
+++ Suppression reaction fire ignores %50 cover bonus.
+++ Green Fog enabled.
+++ Quick and Dirty adjustments enabled (future - adjust # of aliens!)
+++ Air War modifications enabled via DGC.ini (future - adjust air war!)
+
+v1.21 Changes:
+
+Fixes/Misc
+- Outsider concealment/muscle fiber density bug? Muscle Fiber Density & Concealment made mutually exclusive to enemies.
+- Mex vision returned to LW standard (27) for soldiers and all aliens as it causes numerous crash bugs w/ height and mixed vision ranges. Heavier enemies (and SHIV) sight range lower in general (24), esp. Mechtoids (21).
+- Fix SHIV accuracy (+12 base, plus tech bonuses)
+
+Balance Adjustments:
+- Adjusted Ballistic Rocket Launcher 
+++ Was [7 dmg, no bonus perk, mobility -1, 500 environment dmg] 
+++ Now [4 dmg, Shock & Awe (1 extra rocket), mobility -3, 350 environment dmg] 
+- Mimic Beacon adjusted
+++ Was [Mimic Beacon, grants Luci-Dust, -10 Will, mobility -1]
+++ Now [Dominance Focus, no bonus perk, +10 Will, mobility -0]
+- Laser Shatterbeam Array (SMG) adjusted
+++ Was [Grants Rapid Fire]
+++ Now [Grants Light 'Em Up]
+
+v1.2 Changes:
+
+Balance Adjustments:
+- Change barracks to 60 soldiers.
+- Remove proper names from perk associations.
+- Reduced research time of beam and adv. beam tech. Beam is a kind of ballistic 1.5 instead of a full tech advance like Gauss, Pulse, Plasma.
+- Reduce interceptor arming time.
+- Reduced cost and time to build Phoenix Cannon.
+- Reduced interceptor max repair time by 20%. ~2/3rds of LW standard.
+- Engineer bonus/penalty time to build reduced by 1/3rd.
+- Sniper - Replaced Mayhem w/ Bring 'Em On (functions at squadsight range).
+- Gunner - Replaced Flush w/ Squadsight.
+- Gene Mod times reduced.
+- Toned down diminishing returns cost.
+- Additional Sectoid health: +2 in the first month.
+- Additional Floater health: +3 by end of the second month.
+- Prevalence of Hardened for non-mechanical enemies increased as part of the weapon rebalance. This generally represents well-armored or difficult to snipe/burst-fire enemies.
+- Added -1 mobility to Muscle Fiber Density and Lightning Reflexes in the Sleeper perk tree. 
+- Remove AP Ammo from Sniper class to keep Slayer as high level sniper perk.
+- Increased Neural Damping extra fatigue to 24 hrs. Should affect all sleepers.
+- Reduce Soldier cost to 45.
+- Increased starting soldiers amount to 24.
+- Put Field Surgeon on medikit and re-theme Regen Biofield as First Responder for the Command perk tree.
+- Rocket Launcher damage returned to 7.
+- Reduced avg. Soldier Will by 5 to account for psi-level Will gain availability. Back loaded soldier Will gain as well. Consider trophies/steadfast.
+
+Aim and Weapon adjustments:
+- Explanation: There are now distinctly crit focused weapons and others that provide raw damage or a lesser mix of both damage and critical chance.
+- Enemies with Hardened and Resilience (Badass on enemies) are significantly more common. Enemies with these perks are generally poor targets for high crit weapons. 
+++ High crit weapons (Machine Pistols, PDWs, non-beam Shotguns, Sniper rifles, LMGs) can be terribly effective and generally represent weapons that burst-fire, strike exposed areas, and may still be able to crit hardened targets opponents.
+++ Low crit weapons (Carbines, Beam shotguns, Battle Rifle, Cannons) are relatively effective against all targets though incredibly unlikely to crit against Hardened targets.
+++ Mixed weapons (Marksman Rifles, Assault Rifles) can go one way or the other depending on specialization, circumstances, or loadout.
+
+- Standard Weapons: Range bonus applies starting at near visual range (24 rng). General bonus should be 2-56% over non-squadsight ranges. This includes Gunner weapons which have been further adjusted.
+- Shotguns: Ballistic/Gauss/Plasma shotguns (Scattershot) damage output shifted onto critical hits. Lower base damange -2, high critical chance +20%. No accuracy bonus but accuracy gain from distance is 50% better than rifles and on the same scale.
+- Shotguns: Beam/Pulse (Energy) reduced absolute range, though excellent accuracy within that range. High base damage, lower critical chance (-20%).
+- Precision Weapons: Marksman/Sniper rifles now lose accuracy quickly at close-to-mid ranges (<24 rng, just short of max visual range). Damage output shifted towards critical hits. Lower base damage (-1 dmg), higher crit chance (32/48).
+- Gunner Weapons: LMG-type weapons have somewhat poorer aim though their perks mitigate this. Cannon-type weapons now have Steady Aim and reduced accuracy. Non-Lasers have Flush instead of Death Dealer.
+- Pistols: Machine pistols - Lower damage (-1), higher crit chance (~64).
+- Reworked PDWs - Lower damage (-1), higher crit chance (~64), relatively poor aim.
+- Aim bonus: -20 to the average aim statistic of all characters, enemy weapon aim reduced slightly. Significant aim bonuses are now standard on most weapons. +16 is the "average" aim bonus for weapons.
+- Added Flush to Drum Magazines.
+
+Tech Adjustments:
+- Research time decreased by ~20%. 
+- Weapon tech fragments reduced by ~25% and Elerium costs increased by ~50%.
+- Fragments added to all non-autopsy/interrogation researches.
+- Interrogation captures needed generally increased.
+- Differentiate foundry projects from other research. High resource cost, quick research time. Reduced project time by ~85%. Increased elerium, meld, and alloy costs by ~50%.
+
+Psionics:
+- Training attempts much faster.
+- Post-mission fatigue increased substantially for first perk. Otherwise reduced or same.
+- Added mundane perk column. Death Dealer, Killzone, Squadsight, Precision, Steadfast.
+- Rebalanced required XP: The first two psi levels are easy to acquire, the next two take quite a while, then two quick levels, and the last takes a long time.
+- Make Psi accessible to all soldiers.
+- Adjust required techs for psi powers.
+++ Mundane perks grant no additional XP growth.
+++ Offensive psi abilities have lesser XP growth, lower fatigue penalties?
+++ Defensive psi abilities have greater XP growth, higher fatigue penalties?
+++ Put passive psi powers on items. Note that Neural Feedback, Distortion Field, and possible First Responder will grant bonus PSI XP when gained from equipped items.
+
+Fixes/Misc:
+- Inf Loop Fix Attempt - Seeker lockup due to triggered or extra action. Make Seeekers stranglier.
+- Ranger no longer replaces Pyrokinesis.
+- Changed Deadzone perk to Killzone. Too much 'dead' in my perks.
+
+v1.1 Changes:
+Update shotgun description to useable by all.
+Updated rocket launcher descriptions.
+Update Vigilant description.
+Update beam weapon descriptions.
+Reduced Meld canister output somewhat.
+CTD Fix Attempt - Reduced max alien sight range to 30 from 36. Equivalent to soldiers. 
+Cannon-class weapon rebalance - Removed Death Dealer and replaced with Flush for non-laser cannons. Aim bonus removed, critical chance reduced by 20.
+Reduced barracks to house max of 40 soldiers.
+Soldier cost increased to 90.
+Chryssalids adjusted to differentiate from berserkers.
+Sectoid perk growth speed increased.
+Corrected Laser Sniper perk to Bullseye.
